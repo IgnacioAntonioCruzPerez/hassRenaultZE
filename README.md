@@ -121,3 +121,5 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 ## Contribuer
 
 Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](CONTRIBUTING.md) avant de proposer vos contributions.
+A d d i n g   c o n t e n t  
+ 
